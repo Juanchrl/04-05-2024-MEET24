@@ -15,8 +15,8 @@ print( f" waktu yang dibutuhkan : { waktu_akhir - waktu_awal }")
 batas()
 print( f"usaha = { fisika.U( 12, 3 ) }")
 print( f"Gaya = { fisika.G( 6, 2 ) } ")
-print( f"Jarak = { fisika.J( 0.3 ) } ")
+print( f"Jarak = { fisika.J( 9, 3 ) } ")
 
 batas()
 
-print( f" Hasil Energi Potensial : { }")
+print( f" Hasil Energi Potensial : { fisika.Ep}")
